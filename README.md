@@ -1,4 +1,4 @@
-# Color-Recognition-using-OpenCV
+
 # 🎨 Color Recognition using OpenCV
 
 A simple Computer Vision project built with **Python** and **OpenCV** to recognize dominant colors (Red, Green, Blue) in an image using the HSV color space.
